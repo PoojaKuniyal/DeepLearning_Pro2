@@ -1,1 +1,2 @@
-# DeepLearning_Pro2
+# Image Captioning (Flicker Dataset)
+This project integrates image and text data for caption generation using deep learning. Leveraged the pre-trained Inception-V3 model for image feature extraction. Encoded images, for this Parallel processing and ThreadPool were leveraged to optimize performance. Cleaned and tokenized captions using the NLTK library. Utilized pre-trained GloVe embeddings to create a word vector matrix. Organized datasets into train, test, and validation directories. Developed custom data generator and caption generation functions. Built the model using LSTM layers for effective caption generation. 
